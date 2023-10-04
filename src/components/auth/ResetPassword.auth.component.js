@@ -1,4 +1,4 @@
-import reset_password_desktop from '../../assets/reset-password_desktop.svg'
+import reset_password_desktop from '../../assets/otp_image.svg'
 import Auth from './Auth.auth.component';
 import FormTemplate from '../../pages/Auth/reset-password.auth.page';
 

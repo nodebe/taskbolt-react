@@ -1,4 +1,4 @@
-import register_desktop from '../../assets/register_desktop.svg'
+import register_desktop from '../../assets/otp_image.svg'
 import Auth from './Auth.auth.component';
 import FormTemplate from '../../pages/Auth/register.auth.page';
 

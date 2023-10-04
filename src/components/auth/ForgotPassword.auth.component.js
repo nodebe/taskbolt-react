@@ -1,4 +1,4 @@
-import forgot_password_desktop from '../../assets/forgot-password_desktop.svg'
+import forgot_password_desktop from '../../assets/otp_image.svg'
 import Auth from './Auth.auth.component';
 import FormTemplate from '../../pages/Auth/forgot-password.auth.page';
 

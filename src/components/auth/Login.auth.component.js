@@ -1,4 +1,4 @@
-import login_desktop from '../../assets/login_desktop.svg'
+import login_desktop from '../../assets/otp_image.svg'
 import Auth from './Auth.auth.component';
 import FormTemplate from '../../pages/Auth/login.auth.page';
 
